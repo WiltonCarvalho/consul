@@ -1,4 +1,5 @@
 # Consul Cluster With TLS
+![image](https://user-images.githubusercontent.com/45881665/150701086-10a564f1-460d-44c3-94da-1863327cdf5a.png)
 
 ## Download Consul on all server and client nodes
 ```
